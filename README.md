@@ -1,31 +1,11 @@
 # Cisco Postman Collections
-This is a meta repository that gathers the set of Postman collections for Cisco products.
 
-# Infrastructure
+DevNet is home to Cisco’s API guides, and Postman plays a central role in helping the DevNet team educate and inspire our community. Postman enables people to offers helps users quickly get hands-on with Cisco APIs to learn how they work. As a result, developers and customers can get more value from Cisco APIs to help them solve business problems.
 
-## Meraki
 
-* [https://meraki.io/postman](https://meraki.io/postman)
+## Postman API Network
 
-## DNA Center
+DevNet team has posted the set of collections to the [Postman API Network](https://explore.postman.com/ciscodevnet), thus delivering Cisco’s APIs to an expanded community of more than 10 million developers. The team continues to add more collections to the network spanning Cisco’s networking, security, and video conferencing solutions. Users can not only discover APIs, but they can also import collections directly to local clients. To date, the Cisco page has delivered more than three thousand imports.
 
-* https://github.com/CiscoDevNet/dnac-samples-aradford/blob/master/tools/postman/README.md
-* https://github.com/CiscoDevNet/netprog_basics/tree/master/postman_config
-* https://github.com/CiscoDevNet/dnav3-code/tree/master/postman
+Many of Cisco’s APIs are connected to hardware devices, which makes it difficult for users in an exploratory phase to have a meaningful interaction with the APIs.
 
-## APIC-EM
-
-* https://communities.cisco.com/community/developer/dna/blog/2017/02/22/using-a-postman-collection-with-apic-em-devnet-sandbox
-
-## ACI
-
-* https://supportforums.cisco.com/t5/data-center-documents/aci-automation-part-1-aci-with-postman-introduction/ta-p/3318219
-
-# Collaboration
-
-## Webex Teams
-* [https://github.com/CiscoDevNet/postman-webex](postman-webex)
-
-## Collaboration Endpoints
-
-* [https://github.com/CiscoDevNet/postman-xapi](postman-xapi) for collaboration endpoints
